@@ -1,0 +1,12 @@
+/home/wilbur/wordio/backend/target/debug/deps/base64ct-79e8468ccbfdcdc8.rmeta: /home/wilbur/.cargo/registry/src/github.com-1ecc6299db9ec823/base64ct-1.0.1/src/lib.rs /home/wilbur/.cargo/registry/src/github.com-1ecc6299db9ec823/base64ct-1.0.1/src/encoding.rs /home/wilbur/.cargo/registry/src/github.com-1ecc6299db9ec823/base64ct-1.0.1/src/errors.rs /home/wilbur/.cargo/registry/src/github.com-1ecc6299db9ec823/base64ct-1.0.1/src/variant.rs /home/wilbur/.cargo/registry/src/github.com-1ecc6299db9ec823/base64ct-1.0.1/src/variant/bcrypt.rs /home/wilbur/.cargo/registry/src/github.com-1ecc6299db9ec823/base64ct-1.0.1/src/variant/crypt.rs /home/wilbur/.cargo/registry/src/github.com-1ecc6299db9ec823/base64ct-1.0.1/src/variant/standard.rs /home/wilbur/.cargo/registry/src/github.com-1ecc6299db9ec823/base64ct-1.0.1/src/variant/url.rs
+
+/home/wilbur/wordio/backend/target/debug/deps/base64ct-79e8468ccbfdcdc8.d: /home/wilbur/.cargo/registry/src/github.com-1ecc6299db9ec823/base64ct-1.0.1/src/lib.rs /home/wilbur/.cargo/registry/src/github.com-1ecc6299db9ec823/base64ct-1.0.1/src/encoding.rs /home/wilbur/.cargo/registry/src/github.com-1ecc6299db9ec823/base64ct-1.0.1/src/errors.rs /home/wilbur/.cargo/registry/src/github.com-1ecc6299db9ec823/base64ct-1.0.1/src/variant.rs /home/wilbur/.cargo/registry/src/github.com-1ecc6299db9ec823/base64ct-1.0.1/src/variant/bcrypt.rs /home/wilbur/.cargo/registry/src/github.com-1ecc6299db9ec823/base64ct-1.0.1/src/variant/crypt.rs /home/wilbur/.cargo/registry/src/github.com-1ecc6299db9ec823/base64ct-1.0.1/src/variant/standard.rs /home/wilbur/.cargo/registry/src/github.com-1ecc6299db9ec823/base64ct-1.0.1/src/variant/url.rs
+
+/home/wilbur/.cargo/registry/src/github.com-1ecc6299db9ec823/base64ct-1.0.1/src/lib.rs:
+/home/wilbur/.cargo/registry/src/github.com-1ecc6299db9ec823/base64ct-1.0.1/src/encoding.rs:
+/home/wilbur/.cargo/registry/src/github.com-1ecc6299db9ec823/base64ct-1.0.1/src/errors.rs:
+/home/wilbur/.cargo/registry/src/github.com-1ecc6299db9ec823/base64ct-1.0.1/src/variant.rs:
+/home/wilbur/.cargo/registry/src/github.com-1ecc6299db9ec823/base64ct-1.0.1/src/variant/bcrypt.rs:
+/home/wilbur/.cargo/registry/src/github.com-1ecc6299db9ec823/base64ct-1.0.1/src/variant/crypt.rs:
+/home/wilbur/.cargo/registry/src/github.com-1ecc6299db9ec823/base64ct-1.0.1/src/variant/standard.rs:
+/home/wilbur/.cargo/registry/src/github.com-1ecc6299db9ec823/base64ct-1.0.1/src/variant/url.rs:
